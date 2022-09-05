@@ -12,5 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+안녕하세요 정조은입니다
+
 ![joeun-01's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeun-01&show_icons=true&theme=radical)
 [![joeun-01's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joeun-01&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/joeun-01)
